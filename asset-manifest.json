@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ilmateade/static/css/main.5f451365.css",
+    "main.js": "/ilmateade/static/js/main.4fd5a22d.js",
+    "static/js/787.ee9a5c4c.chunk.js": "/ilmateade/static/js/787.ee9a5c4c.chunk.js",
+    "static/media/sunset.png": "/ilmateade/static/media/sunset.45f615ea119e5a1af90b.png",
+    "static/media/sunrise.png": "/ilmateade/static/media/sunrise.2f522b1af5c815730b2b.png",
+    "index.html": "/ilmateade/index.html",
+    "main.5f451365.css.map": "/ilmateade/static/css/main.5f451365.css.map",
+    "main.4fd5a22d.js.map": "/ilmateade/static/js/main.4fd5a22d.js.map",
+    "787.ee9a5c4c.chunk.js.map": "/ilmateade/static/js/787.ee9a5c4c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f451365.css",
+    "static/js/main.4fd5a22d.js"
+  ]
+}

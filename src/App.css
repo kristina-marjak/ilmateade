@@ -29,3 +29,32 @@ td {
 img {
   margin: 0 auto;
 }
+
+.form {
+  font-size: 15px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+.form label {
+  margin-bottom: 5px;
+}
+
+.form input {
+  margin-bottom: 5px;
+  padding: 4px;
+}
+
+.form button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.form button:disabled {
+  background-color: #a0a0a0;
+}
